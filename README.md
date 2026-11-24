@@ -24,10 +24,6 @@
 
 
 <div align="center">
-[![Rust](https://img.shields.io/badge/Language-Rust-orange.svg?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-[![GUI](https://img.shields.io/badge/UI-eframe%20%2F%20egui-00ADD8.svg?style=for-the-badge)]()
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6.svg?style=for-the-badge&logo=windows)]()
-
 </div>
 
 ---
