@@ -4,6 +4,31 @@
 
 **أداة خفيفة بلغة Rust لواجهة Windows لتثبيت النوافذ فوق التطبيقات الأخرى (Always on Top) وإدارتها عبر System Tray.**
 
+[![Download EXE](https://img.shields.io/badge/Download-App__Top__Tracker.exe-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/iomais/app_top_tracker/releases/latest/download/app_top_tracker.exe)
+
+[![Latest Release](https://img.shields.io/github/v/release/iomais/app_top_tracker?style=for-the-badge&color=orange)](https://github.com/iomais/app_top_tracker/releases/latest)
+[![Rust](https://img.shields.io/badge/Language-Rust-orange.svg?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![GUI](https://img.shields.io/badge/UI-eframe%20%2F%20egui-00ADD8.svg?style=for-the-badge)]()
+
+</div>
+
+---
+
+## ⚡ تحميل مباشر
+
+| المنصة | رابط التحميل المباشر | النسخة |
+|---|---|---|
+| **Windows 64-bit** | [📦 تحميل ملف app_top_tracker.exe](https://github.com/iomais/app_top_tracker/releases/latest/download/app_top_tracker.exe) | أحدث إصدار (Release) |
+
+---
+
+
+<div align="center">
+
+# 📌 App Top Tracker
+
+**أداة خفيفة بلغة Rust لواجهة Windows لتثبيت النوافذ فوق التطبيقات الأخرى (Always on Top) وإدارتها عبر System Tray.**
+
 [![Rust](https://img.shields.io/badge/Language-Rust-orange.svg?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![GUI](https://img.shields.io/badge/UI-eframe%20%2F%20egui-00ADD8.svg?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6.svg?style=for-the-badge&logo=windows)]()
